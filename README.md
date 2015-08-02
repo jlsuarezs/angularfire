@@ -1,0 +1,2 @@
+# angularfire
+AngularJS + Firebase template
